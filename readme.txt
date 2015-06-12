@@ -13,9 +13,8 @@ On save post, send post url to facebook and re scrape open graph information.
 
 On save post, send post url to facebook to re scrape open graph information.
 
-= Filters =
+Filters:
 `fogs_post_types`: filter what post types should be re-scraped. Should return array of post types.
- 
 
 Example: Only re-scrape the post type page
 
